@@ -1,17 +1,17 @@
 # Safe Deployments
 
-[![npm version](https://badge.fury.io/js/%40safe-global%2Fsafe-deployments.svg)](https://badge.fury.io/js/%40safe-global%2Fsafe-deployments)
-[![CI](https://github.com/safe-global/safe-deployments/actions/workflows/test.yml/badge.svg)](https://github.com/safe-global/safe-deployments/actions/workflows/test.yml)
+[![npm version](https://badge.fury.io/js/%40redbellynetwork%2Fsafe-deployments.svg)](https://badge.fury.io/js/%40redbellynetwork%2Fsafe-deployments)
+[![CI](https://github.com/redbellynetwork/safe-deployments/actions/workflows/test.yml/badge.svg)](https://github.com/redbellynetwork/safe-deployments/actions/workflows/test.yml)
 
-This contract contains a collection of deployments of the contract of the [Safe contracts repository](https://github.com/safe-global/safe-contracts). 
+This contract contains a collection of deployments of the contract of the [Safe contracts repository](https://github.com/redbellynetwork/safe-contracts). 
 
 For each deployment the address on the different networks and the abi files are available. To get an overview of the available versions check the available [json assets](./src/assets/).
 
-To add additional deployments please follow the [deployment steps in the Safe contract repository](https://github.com/safe-global/safe-contracts#deployments).
+To add additional deployments please follow the [deployment steps in the Safe contract repository](https://github.com/redbellynetwork/safe-contracts#deployments).
 
 ## Install
-- npm - `npm i @safe-global/safe-deployments`
-- yarn - `yarn add @safe-global/safe-deployments`
+- npm - `npm i @redbellynetwork/safe-deployments`
+- yarn - `yarn add @redbellynetwork/safe-deployments`
 
 ## Usage
 
