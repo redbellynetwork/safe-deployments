@@ -1,6 +1,6 @@
 {
   "name": "@redbellynetwork/safe-deployments",
-  "version": "1.29.0",
+  "version": "1.29.1",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/redbellynetwork/safe-deployments/",
   "license": "MIT",
